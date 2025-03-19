@@ -28,7 +28,7 @@ INSERT INTO users (name, email, age, city) VALUES
 ('Carlos García', 'carlos.garcia@example.com', 35, 'Valencia');
 ``` 
 
-## 🏆 K-3 (CREAR PROYECTO EN TÚ COMPUJTADOR LOCAL)
+## 🏆 K-3 (CREAR PROYECTO EN TÚ COMPUTADOR LOCAL)
 crear el archivo .env en el root del proyecto
 ```
 DB_USERNAME=usuario de postgres
