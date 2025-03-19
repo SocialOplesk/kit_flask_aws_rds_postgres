@@ -1,5 +1,5 @@
 # SOCIAL OPLESK
-### 🎩 KIT 
+### 💼 KIT 
 <br/>
 
 ## ⚡️ Kit de código fuente para la elaboración del CRUD de Flask + RDS ⚡️
