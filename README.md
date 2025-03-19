@@ -29,7 +29,7 @@ INSERT INTO users (name, email, age, city) VALUES
 ``` 
 
 ## 🏆 K-3 (CREAR PROYECTO EN TÚ COMPUTADOR LOCAL)
-crear el archivo .env en el root del proyecto
+crear el archivo .env en el root del proyecto e instalar: pip install python-dotenv
 ```
 DB_USERNAME=usuario de postgres
 DB_PASSWORD=contraseña del postgres
